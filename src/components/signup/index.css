@@ -1,0 +1,41 @@
+.signup-container{
+    display: flex;
+    justify-content: center;
+    border: solid 2px #000;
+    border-radius: 12px;
+    height: 350px;
+    width: 350px;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.heading{
+    text-align: center;
+}
+
+label{
+    margin-bottom: 4px;
+}
+
+button{
+    height: 34px;
+    width: 90px;
+    background-color: blue;
+    outline: none;
+    border-radius: 12px;
+    border: none;
+    color: #ffffff;
+}
+
+input{
+    width: 300px;
+    margin-bottom: 12px;
+    height: 40px;
+    border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
